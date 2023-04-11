@@ -32,7 +32,7 @@ Equipped with an Intel Core i7 processor and 16GB of RAM, this laptop delivers l
 
 **Media**
 
-https://unsplash.com/photos/wJyPrO4GK6s
+https://images.unsplash.com/photo-1619532550465-ad4dc9bd680a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80
 
 **Price**(in KES)
 
