@@ -12,7 +12,7 @@ Featuring a fast and responsive Intel Core i7 processor and 16GB of RAM, this Ma
 
 **Media**
 
-https://unsplash.com/photos/fhmRqhD_dYg
+https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80
 
 **Price**(in KES)
 
